@@ -2,6 +2,8 @@
 name = "gouda"
 version = "0.1.0"
 edition = "2021"
+description = "Create lightweight desktop apps using HTML/CSS/JS"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
